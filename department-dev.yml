@@ -1,4 +1,4 @@
 server:
   port: 8081
 myconfig:
-  info: "Hello from Config Server!"
+  info: "v2.0Hello from Config Server!"
