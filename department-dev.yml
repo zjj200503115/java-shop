@@ -2,3 +2,6 @@ server:
   port: 8081
 myconfig:
   info: "v2.0Hello from Config Server!"
+app:
+  test:
+    message: "这是我在配置中心修改的消息 V2.0"
