@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 9100
 myconfig:
   info: "v2.0Hello from Config Server!"
 app:
